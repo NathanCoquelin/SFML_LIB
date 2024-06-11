@@ -1,0 +1,47 @@
+##
+## EPITECH PROJECT, 2024
+## Spice BootStrap
+## File description:
+## .gitignore
+##
+
+# Ignore folder
+.idea
+
+# Ignore object files
+
+build/src/Main.o
+
+
+
+# Ignore dependency files
+
+build/src/Main.d
+
+
+
+# Ignore binary files
+nanotekspice
+nanotekspice
+nanotekspice_tests
+a.out
+
+# Ignore logs and reports
+*.gc*
+vgcore.*
+
+# Ignore coding-style logs
+coding-style-reports.log
+
+# Ignore temporary files
+*tmp*
+*~
+\#*#
+.#*
+*.swp
+
+# Miscellanous
+compile_commands.json
+.cache
+build/
+
